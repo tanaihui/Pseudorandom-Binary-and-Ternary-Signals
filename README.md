@@ -1,10 +1,10 @@
-The prs software package incorporates functions to generate pseudorandom binary and ternary signals. Six classes of signals are available:
-•	Maximum length binary (MLB) signals 
-•	Quadratic residue binary (QRB) signals 
-•	Quadratic residue ternary (QRT) signals 
-•	Hall binary (HAB) signals 
-•	Twin Prime binary (TPB) signals 
-•	Direct synthesis ternary signals (through a subsidiary program)
+The prs software package incorporates functions to generate pseudorandom binary and ternary signals. Six classes of signals are available:\
+•	Maximum length binary (MLB) signals \
+•	Quadratic residue binary (QRB) signals \
+•	Quadratic residue ternary (QRT) signals \
+•	Hall binary (HAB) signals \
+•	Twin Prime binary (TPB) signals \
+•	Direct synthesis ternary signals (through a subsidiary program)\
 
 Functions are also available to calculate three measures of signal quality:
 •	Performance Index for Perturbation Signals (PIPS) 
